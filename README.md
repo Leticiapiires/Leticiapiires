@@ -21,8 +21,7 @@
 
 
 ## ESTATÍSTICA
-![LETÍCIAGitHub stats](https://github-readme-stats.vercel.app/api?username=Leticiapiires
-&show_icons=true&theme=transparent)
+![LETICIA GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticiapiires&show_icons=true&theme=transparent)
 
 
 
